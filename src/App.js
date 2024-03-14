@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Test 2 <code>src/App.js</code> and save to reload.
+          Test 2 <code>src/App.js</code> Edited on feature
         </p>
         <a
           className="App-link"
@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          I was changed on feature bracnh
+          Learn React
         </a>
       </header>
     </div>
